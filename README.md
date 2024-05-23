@@ -1,4 +1,4 @@
-Quiz Game TRUE or FALSE
+## Quiz Game TRUE or FALSE
 
 Welcome to the Quiz Game! In this project, we will focus on creating classes using Object-Oriented Programming (OOP) to build a true-false quiz game.
 
@@ -29,10 +29,4 @@ False
 If you want to have a play around with the final project to get a feel for how it works, you can find a link to the final version of the quiz game in the course resources.
 
 
-## Lessons
 
-1. Introduction to Classes
-2. Creating Custom Classes
-3. Using Objects in the Quiz Game
-4. Building the Quiz Logic
-5. Finalizing the Game
