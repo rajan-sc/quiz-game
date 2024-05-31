@@ -24,9 +24,5 @@ True
 False
 
 
-## Try It Out
-
-If you want to have a play around with the final project to get a feel for how it works, you can find a link to the final version of the quiz game in the course resources.
-
 
 
